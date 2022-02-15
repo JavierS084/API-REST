@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "mysql-connection": "^1.0.2",
     "nodemon": "^2.0.15"
   }
 }
